@@ -1,0 +1,2741 @@
+<translations>
+  <translation>
+    <source>- 5.000!</source>
+    <target>- 5000!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Zwei irre Hilfssheriffe sind genauso gut wie einer!</source>
+    <target>Od przybytku głowa nie boli...</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Nennen Sie mir ihre Namen, und morgen haben Sie Ihr Visum.</source>
+    <target>
+      Jeśli poda mi pan ich nazwiska i adresy, otrzyma pan rano wizę.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Wo bist du?</source>
+    <target>Poddaję się.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Wenn du mich liebst, Joe.</source>
+    <target>Jeżeli mnie kochasz, Joe...</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Wir haben Unterlagen der spanischen Krone und der Republik Mexiko.
+    </source>
+    <target>
+      Mamy papiery Królestwa Hiszpanii. Mamy też dokumenty Republiki Meksyku.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>HohIe schwarze Damen.</source>
+    <target>Puste pionki - czarne królowe.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Aber du brauchst ein Kostüm.</source>
+    <target>- Nie możesz pójść bez kostiumu.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Meine Damen und Herren,</source>
+    <target>* Panie i panowie, proszę o uwagę. *</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich schäme mich, ich schäme mich...</source>
+    <target>Tak, jestem zawstydzony.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich serviere Ihnen Dallas' Kopf auf einem Silbertablett.</source>
+    <target>A czaszka Dallas'a pękła w szwach.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Der Wagen wurde als gestohlen gemeldet.</source>
+    <target>Zgłoszono kradzież tego samochodu.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- In keinem Hotel gab es ein Spur von Ihnen.</source>
+    <target>- Nie znaleźliśmy śladów w żadnym hotelu.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- lch möchte ein St...</source>
+    <target>- Poproszę o st...</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Ich bin der Regierung sehr dankbar, dass sie mich für das hohe Amt vorschlägt.
+    </source>
+    <target>Gdyby to był tylko tytuł, zgodziłbym się bez wahania.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Ich hab da was gesehen. - Was denn?</source>
+    <target>- Widziałem coś bardzo interesującego.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>$ 1 . 1 00, Pig.</source>
+    <target>1100 do ciebie, Pig.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Warum haben Sie das Ergebnis dann nicht veröffentlicht?</source>
+    <target>
+      Rozwiązany? Jeśli to rozwiązałeś, dlaczego nie opublikowałeś wyników?
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Vielen Dank!</source>
+    <target>- Nie ma. - Dziękuję.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Sonst bekommst du Ärger.</source>
+    <target>- Jeśli nie chcesz kłopotów, zabieraj się stąd!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Triebwerk ist auf Umkehrschub geschaltet.</source>
+    <target>Silniki wsteczne, OK.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich warte im Dorf. Und wenn nicht?</source>
+    <target>A jeśli gringos odmówią?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Mein edler Cawdor.</source>
+    <target>- Czcigodny Kawdorze.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>N. EMELJANOVA, A. TSCHERNOV</source>
+    <target>L.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Du bist ja auch anders.</source>
+    <target>Oczywiście, że jesteś inna.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich weiß, sie waren besorgt wegen der Fluggeschwindigkeit.</source>
+    <target>Wiem, że boją się o szybkość.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>So ein kleines Biest! Ich wusste es.</source>
+    <target>Wyczuła wszystko.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Atme erst, wenn du weg bist. Dieses Gas macht blind.</source>
+    <target>To gaz oślepiający.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Kann nicht singen oder tanzen.</source>
+    <target>- Pewnie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Also, wollen wir mal nachsehen.</source>
+    <target>spójrzmy.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Was?</source>
+    <target>Na bazie?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Nie das Boot verlassen...</source>
+    <target>Nie schodzić z tej jebanej łodzi.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Kommt, Jungs.</source>
+    <target>Brat Bill wspaniale zatańczył naszym lwem.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Du hast dich verspätet.</source>
+    <target>Spóźniłeś się.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Probier ihn an. Ich wette, es ist die richtige Grösse.</source>
+    <target>Na pewno zgadłam, jaki masz rozmiar.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Nur ich allein. Und ich hatte den einzigen Schlüssel.</source>
+    <target>Chyba tylko ja.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Danke für das vorzügliche Essen und die schönen Lieder.</source>
+    <target>Dziękuję za dobrą kolację i cudowne pieśni.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>GENUINE Die Geschichte eines Vampirs</source>
+    <target>Genuine: Opowieść wampira</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Wir ziehen in den Krieg.</source>
+    <target>Zaczniemy wojnę.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Wart ihr Schulfreunde?</source>
+    <target>- Byliście kumplami w szkole?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Alles klar!</source>
+    <target>Nadchodzą, Jack.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Halt dein verdammtes Maul!</source>
+    <target>Zamknij się w cholerę.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>-Und wisst ihr, einmal...</source>
+    <target>- I wiecie, że raz...</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Er ist völlig fertig.</source>
+    <target>On jest w depresji.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Mama, Papa!</source>
+    <target>- Mamo!</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Schweizer Präzisionsuhrwerk. Die haben Sie bei Tiffany gesehen... für $1700.
+    </source>
+    <target>Najlepsze szwajcarskie wykonanie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Ich finde, das geht Sie nichts an, aber ich sage es Ihnen trotzdem.
+    </source>
+    <target>To nie twoja sprawa, ale ci powiem.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Das woIIen Sie doch?</source>
+    <target>Tego przecież pan chce.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Nun die Wettervorhersage für den Nordwesten von Karikya:</source>
+    <target>
+      A teraz najświeższa prognoza pogody dla północno zachodniego Koriko
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>-Auf diese Distanz.</source>
+    <target>Dobry strzał.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Es geht die Grippe um, nicht?</source>
+    <target>Panuje grypa.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Esther Williams ist gerade vergriffen.</source>
+    <target>Wszystkie wypożyczone.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wie lange es auch geht und wie weit!</source>
+    <target>
+      Nieważne jak wiele czasu to zabierze, nieważne jak daleko będziesz!
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich habe mit einer Statistik große Verluste gemacht.</source>
+    <target>Posłużyłem się demografią raz i umoczyłem. - To było w Denver?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Das schaffst du nie allein!</source>
+    <target>Uruchom zamki.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Bist du meine &quot;fair Lady&quot;?</source>
+    <target>Jesteś moją panią?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Das ist schade. Ich hoffte, Sie würden mich bedauern, weil wir beide die Einzigen von der anderen Seite sind.
+    </source>
+    <target>
+      Sądziłem, że będziesz mi współczuł, jako że jesteśmy... ..jedynymi z drugiej strony.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Warum wollen Sie unbedingt hier sitzen?</source>
+    <target>Czemu musisz siedzieć koło mnie?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Heiss!</source>
+    <target>Smoking!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Sie gehen nirgendwo hin, bis wir Ihr Schiff durchsucht haben.</source>
+    <target>
+      Może pan to nazywać jak chce ale nie polecicie dalej dopóki nie przeszukamy statku.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Immer schön wachsam sein und die Augen offen halten.</source>
+    <target>Miej oczy otwarte. Myślimy o pająku, Cole.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich habe schon viel von Ihnen gehört.</source>
+    <target>Dużo o panu słyszałem.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Viel Glück mit der Sendung. - OK. Tschüss.</source>
+    <target>Udanego występu.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      - Ja, klar. Technologisch gesehen ist die Welt außer Kontrolle.  Video, zum Beispiel.
+    </source>
+    <target>
+      - Nagrywam. /Świat wymknął nam się /spod kontroli. /Weźmy na przykład magnetowid. /Wychodzimy z domu, /a jednak możemy nagrać... /dowolny program w telewizji.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Sobald wir daran vorbei sind, greifen wir den Hügel an.</source>
+    <target>Gdy przejdziemy, zaatakujemy to wzgórze.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Natürlich glaube ich an Gott.</source>
+    <target>Bezgranicznie wierzę w Boga.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Ich glaube, ich kann dir nur das ins Gedächtnis rufen, was du glauben willst.
+    </source>
+    <target>Widzę, że pamiętasz tylko to, co jest dla ciebie wygodne.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Das Beste ist, nicht allein zu sein.</source>
+    <target>Najlepszym lekarstwem jest, aby przebywać wśród ludzi.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>lch spaziere um dich rum!</source>
+    <target>- Chodzić też mogę. Widzisz?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Weißt schon, wegen der Atombombe.</source>
+    <target>Wiesz, ze względu na bombę atomową.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Da kriegst du 'nen doppelten Cheese mit Fritten für 2,95 $.</source>
+    <target>I zamów sobie podwójnego cheeseburgera za 2,95 $, cioto.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Der mit der SonnenbriIIe ist vorm Fenster.</source>
+    <target>W okularach jest za oknem.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ein Ende war eine Parodie auf A Beautiful Mind.</source>
+    <target>
+      Więc dlaczego nie będziesz się martwić sobą, a ja będę się martwić...
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Ich zieh die Sache noch 3, 4 Monate durch, bis sie den Stützpunkt schließen.
+    </source>
+    <target>To tylko czkawka. Za 3-4 miesiące zamkną tą budę.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Der Feind operiert am nördlichen Stadtrand zwischen Frohnau und Pankow, und im Osten steht der Feind an der Linie Lichtenberg, Mahlsdorf, Karlshorst.
+    </source>
+    <target>
+      Na północy są już między Frohnau i Pankow. Dotarli do Lichtenbergu, a na wschodzie do Mahlsdorf i Karlshorst.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Kannst du mit der Knarre umgehen?</source>
+    <target>Celnie strzelasz?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich weiß nichts über Jack, aber da findet lhr ein Schiff.</source>
+    <target>
+      Nic nie wiem o Jacku. Ale znajdziesz tam statek. Statek z czarnymi żaglami.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Aber ihr kriegt euer Leben in den Griff, das sehe ich doch.</source>
+    <target>Ale jakos sie trzymacie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Du bist zu spät. - Ich weiß.</source>
+    <target>Wiem.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich beginne morgen mit dem Training.</source>
+    <target>- Jutro zaczynam treningi.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Ich finde, wir sollten uns viel eher die Frage stellen, ... aus welchem Grund Kevin Parson noch am Leben ist.
+    </source>
+    <target>
+      Pytanie jakie musimy sobie zadać brzmi: Dlaczego Kevin Parson nadal żyje?
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Nehmen wir an, ein Mann will eine Gewehrkugel abfeuern, die perfekt zu einem anderen Gewehr passt.
+    </source>
+    <target>
+      Powiedzmy, że chciałbym użyć strzelby tak żeby pocisk pasował też do innej.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Halt an, bremse!</source>
+    <target>Zatrzymaj się.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Angela, du bist ständig am Flirten.</source>
+    <target>- Ciągle flirtujesz.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Da gibt's vielleicht einen Empfang mit Signierstunde im Museum...
+    </source>
+    <target>Muszę załatwić opiekunkę! - Stary, zaczyna ci odpierniczać?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Und da sind noch mehr Dateien, die bestehen nur aus Zahlen.</source>
+    <target>A w pozostałych plikach są liczby.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Wenn irgendeiner von euch um seine Identität wüsste, wärt ihr im Visier seiner Feinde, und das sind einige der schlimmsten Verbrecher der Welt.
+    </source>
+    <target>
+      Gdyby ktoś z was poznał jego tożsamość, stalibyście się celami jego wrogów, wśród których są najgorsi ustawiacze na świecie.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Kein Hinweis auf einen Kampf oder Einbruch.</source>
+    <target>Nie ma śladów walki, ani włamania.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Ich muss das erst mit Kollegen besprechen, die mehr Ahnung haben.
+    </source>
+    <target>Muszę się skonsultować z kolegą, który jest specjalistą.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Was hat das mit der &quot;Inter City Firm&quot; eigentlich zu bedeuten?
+    </source>
+    <target>O co chodzi z tym InterCity Firm?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      - Ein Skorpion will auf die andere Seite des Flusses und sagt zu einem Frosch:
+    </source>
+    <target>Skorpion, który chciał się przeprawić przez rzekę, powiedział:</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Eines Tages sitzt du auf dem elektrischen Stuhl... der Rauch quillt dir schon aus den Ohren... und du wirst immer noch sagen:
+    </source>
+    <target>
+      Pewnego dnia możesz trafić na krzesło elektryczne... i jak włączą prąd to dym poleci z twoich uszu... i nawet wtedy siędząc tam będziesz mówiła &quot;Wszystko się ułoży, zobaczysz. Jak zawsze&quot;.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      In der Überzeugung, dass ihre Taten Einfluss auf das Geschehen haben.
+    </source>
+    <target>Nazywamy to &quot;Gołębim przesądem.&quot;</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Dastan führt ein Straßenpack an.</source>
+    <target>Dastan przewodniczy ulicznikom.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wir haben doch noch einen Platz für Sie.</source>
+    <target>Jednak znalazło się miejsce.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Der ist dann wie geschaffen für Sie.</source>
+    <target>Ten na pewno ani drgnie.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Und Ashur, befreit von seinen Fesseln, wird wieder das Schwert ergreifen.
+    </source>
+    <target>I Ashur w końcu wolny od swych kajdan, znów trzymający miecz!</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Die Kugel ging durch. Sie ging einfach durch.</source>
+    <target>Kula przeszła czysto na wylot.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Mädels es ist Zeit mit dem Dinner zu beginnen.</source>
+    <target>Dziewczyny, nadszedł czas, aby dostać obiad.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Der große Britische Kinderpsychiater D.W. Winnicott sagte, dass grundsätzlich zwei Dinge in der Kindheit schiefgehen können:
+    </source>
+    <target>
+      Wielki brytyjski psychiatra dziecięcy, DW Winnicott, powiedział że zasadniczo dwie rzeczy mogą pójść źle w okresie dzieciństwa.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Du gehörst nicht zur Tierschau. Komm schon.</source>
+    <target>Nie jesteś od menażerii.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Dein Vater hat mir gesagt, dass du mich zu dem Gefallenen bringen kannst.
+    </source>
+    <target>Twój ojciec powiedział, że wskażesz mi drogę do Upadłego.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Ihr hättet auf Euch gestellt keine Chance gegen die Lannisters.
+    </source>
+    <target>- Sam nie pokonasz Lannisterów!</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Jetzt gehen wir nach Hause.</source>
+    <target>- Widzisz?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich werde mich mit Anil treffen.</source>
+    <target>Ja muszę spotkać się z Anilem. Po co?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Der Generalsekretär hat mich geschickt, um die Arbeit zwischen FBI und CIA zu koordinieren
+    </source>
+    <target>
+      P.o. sekretarza wysłał mnie, żebym ułatwiła kontakt między FBI a CIA.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Warum siehst du so aus, als ob du nicht atmest?</source>
+    <target>Dlaczego wyglądasz, jakbyś nie oddychała?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Nein, er ist in London.</source>
+    <target>Nie, jest w Londynie.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Hat sie nach mir gefragt?</source>
+    <target>Pytała o mnie?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Sie flog hoch in die Luft - - und um das Kapitol herum und dann drehte sie ab nach Westen...  Wie eine Kanonenkugel.
+    </source>
+    <target>
+      Podfrunal w góre, poszybowal wokól kopuly Kapitolu, i šmignal na zachód jak... jak pocisk... terazjest juž pewnie nad Kentucky.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Alles in Ordnung. Ich wollte bloß sehen, ob ihr noch Gesichter habt.
+    </source>
+    <target>Spokojnie, sprawdzam tylko, czy wciaž macie twarze.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Sie schickten Karl das Kleinod an Bord einer Galeere, die Spanien nie erreichte.
+    </source>
+    <target>
+      Rycerze posłali sokoła Karolowi galerą dowodzoną przez członka Zakonu. Nie dotarł do Hiszpanii.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Du liegst neben mir und der Mond über uns</source>
+    <target>Jesteś obok , a księżyc świeci nad nami.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ja, weißt du noch, als wir in Key West...</source>
+    <target>Tak, pamiętasz w Key West...</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>&quot;Er fragt immer: 'Wann kommt Papa nach Hause? '</source>
+    <target>&quot;Wciąż pyta, kiedy wróci jego tatuś.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- In welchem Monat?</source>
+    <target>- Jaki miesiąc?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Sieh dir das an, Dummkopf!</source>
+    <target>Patrz, głupku.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Er würde mir das Grundgesetz an den Kopf werfen - alle sechs Bände.
+    </source>
+    <target>
+      Rzuciłby we mnie Kodeksem Karnym Stanu Nowy Jork prosto w twarz, a tego jest sześć tomów.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Glaubst du, Becky ist in Ordnung?</source>
+    <target>Co z Becky?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Man geht Schritt für Schritt für Schritt für Schritt in die Dunkelheit.
+    </source>
+    <target>Idziesz krok po kroku po kroku po kroku w ciemność.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Wir, Bischof Thurston und Bischof Matthew, fragen Euch: Nehmt ihr Aella als Euren König an und willigt ein...
+    </source>
+    <target>
+      My, biskup Thurston i biskup Matthew, prosimy cię, byś przyjął Aellę jako swego króla i zaakceptował...
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Obwohl sie uns nicht zuhören und unsere Existenz nicht respektieren, müssen sie doch an unsere Kräfte glauben, wenn sie sehen, wie ihre Toten wieder herumlaufen, zurückgebracht durch unseren Vorsprung in solchen Dingen.
+    </source>
+    <target>
+      Nie słuchają nas i powątpiewają w nasze istnienie. Może przekonamy ich o naszej potędze, gdy zobaczą umarłych na ulicach.  Jak tylko ożywisz wystarczającą ilość martwych, poprowadzisz ich do miast i już nic nam nie przeszkodzi.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Das wäre in Rom ein Grund gewesen, aber hier nicht.</source>
+    <target>
+      Mogłoby być wystarczająco dobrze w Rzymie, ale wystarczająco dobrze tutaj.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich bin in Brunico. Brunico?</source>
+    <target>Był widziany w Brunico.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich habe es in Ihre rechte Tasche gesteckt.</source>
+    <target>Żegnaj, Guido. Włożyłem go do twojej prawej kieszeni.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Aber wie denken Sie über das Problem?</source>
+    <target>Ale co pan o tym myśli?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Burschen wie dich sehe ich nicht gerne in ihrer Nähe.</source>
+    <target>Nic jej po takich, jak ty.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Du stiehlst nicht eines Mannes Eier aus dem Nest der trägt ein Abzeichen an seiner West
+    </source>
+    <target>Nie kradnie się jaj z gniazda człowieka noszącego odznakę</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Die britische Theorie über Japan ist Blödsinn.</source>
+    <target>Brytyjska teoria o Japonii to nonsens!</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Nach allem...</source>
+    <target>W końcu jednak...</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Bitte, hören Sie mich an.</source>
+    <target>- Proszę mnie wysłuchać.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich erinnere mich an nichts.</source>
+    <target>Żadnego szczegółu.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Nach Dallas?</source>
+    <target>- Do samego Dallas?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Die Mitglieder sind in drei Kategorien eingeteilt: Könige, Herolde und Pursuivants.
+    </source>
+    <target>
+      13 członków dzieli się na trzy kategorie: królów, heroldów, pomocników.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>In North Beach.</source>
+    <target>- North Beach.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich hätte auf Sie schießen können.</source>
+    <target>Mogłam cię zastrzelić.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Es ist in der Ferne hinter mir.</source>
+    <target>Zbliżam się do czegoś. Jest za mną w pewnej odległości.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Sie hat Stützpunkte in vielen Ländern:</source>
+    <target>Jej sieci sięgają do wielu państw:</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Sie geht leise weg und hinterläßt zum Andenken Flieder auf dem Tisch.
+    </source>
+    <target>Na stole bzu - dla wspomnień - Pozostawiając kiść.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Wenn du Schüsse hörst und mich nach Norden reiten siehst... ...steigst du auf das Pferd.
+    </source>
+    <target>
+      A jeśli usłyszysz strzały... wskakuj na konia. Wyniesie cię stąd.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>57 Maschinen in WartesteIIung.</source>
+    <target>57 samolotów na pasie startowym, sir.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wir in Salon zurückgehen. Das ist vielleicht den Damen lieber.</source>
+    <target>Skoro sa z nami damy, mozemy przejsc do bawialni?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Dann nicht. Das darf dir nur nicht die Lust an der Arbeit verderben.
+    </source>
+    <target>
+      To dobrze. ale nie możesz pozwolić, by to zdławiło twoją chęć do pracy.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Bist du im Bett so gut wie auf der Tanzfläche?</source>
+    <target>Nigdy nie robił tego w łóżku!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Ich gehe zu Ashcroft und überrede ihn, nach der Sea Grass zu suchen.
+    </source>
+    <target>
+      Zamierzam namówić Ashcroft do wynajęcia jego łodzi... i poszukać &quot;Sea Grass&quot;.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Alles in Alarmbereitschaft.</source>
+    <target>Pełna gotowość.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Wartet er nicht darauf, sie in Besitz zu nehmen?</source>
+    <target>Myślałem, że to on pragnie ją wziąć w posiadanie.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Gehen wir in mein Sprechzimmer.</source>
+    <target>Chodźmy do mojego gabinetu.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Das ist ein Schritt nach oben!</source>
+    <target>To krok w górę.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Er war auf dem Weg nach Haus, und er haute mit seinem Stock gegen einen Strommast.
+    </source>
+    <target>
+      Akurat był czymś zajęty... Ruszył z kijem na kabel elektryczny...
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Aber heute Abend machen Sie sich fein und gehen in den Club Violins.
+    </source>
+    <target>Ale wieczorem idźcie do Klubu Violins.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Feuert überlegt und pa?t auf, auf was ihr schie?t.</source>
+    <target>Pilnować ognia i sprawdzać cel.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Willst du zu ihm? Das geht dich nichts an.</source>
+    <target>Idzisz zobaczyć się z nim?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>So was habe ich noch nie gerochen. Es stinkt nach ...</source>
+    <target>Nigdy czegoś takiego nie czułam.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Wir sind nicht in einer Demokratie.</source>
+    <target>Nie rządzą nami zasady demokracji, Ojcze.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Komm nach Hause, mein Kleiner!</source>
+    <target>Galinette, chodźmy do domu.kogo to nie obejdzie. Nie!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ruhen Sie sich nicht auf Lorbeeren aus.</source>
+    <target>Nie schlebiaj sobie.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Es tut mir Leid, ich sehe besser mal nach Lisa.</source>
+    <target>Przepraszam, ale muszę pójść do Lisy.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Die Arbeit dieser Organisation... ...die darin besteht, das Leben der jungen Menschen in dieser Gemeinschaft zu verbessern... ...ist ein Beispiel für die übrige Nation, dass die Regierung sich der Sorgen... ...der Kleinen genauso annehmen kann und sollte, wie denen der Großen.
+    </source>
+    <target>
+      Praca tej organizacji nad poprawą losu młodych ludzi stanowi przykład dla całego kraju. Rząd powinien przede wszystkim służyć pomocą najbardziej potrzebującym.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wir werden bestimmt auf Klingonen treffen.</source>
+    <target>Myślę, że to zły pomysł. Natkniemy się na Klingonów.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Mary, ich bin stolz auf dich.</source>
+    <target>Mary, jestem z ciebie dumna.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Großer Drogendealer auf dem Weg ins Gefängnis. Jeder Sicherheitsmensch wird angepiepst, und Sie mittendrin.  - Erklären Sie mir den Zusammenhang?
+    </source>
+    <target>
+      Handlarz narkotyków w drodze do więzienia, strzelanina na lotnisku, wszyscy kontrolerzy lotów latają w panice, a ty robisz falę.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Hör mal, ich hab's eilig. Ich muss die Kleinen in den Kindergarten bringen. - Brauchst du irgendwas?
+    </source>
+    <target>
+      Posłuchaj, tutaj jestem w pośpiechu, nie mogą rozmawiać, ale... jeśli mogę ci pomóc... potrzebuję środków nasennych...
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ihr lehnt euch gegen mich auf?</source>
+    <target>Próbowaliście obrócić się przeciwko mnie?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Fühlt sich nicht echt an.</source>
+    <target>Nie mogę w to uwierzyć.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>KimbIes Abdrücke im ganzen Zimmer, vor aIIem auf dem PuIt.</source>
+    <target>Odciski Kimble'a są wszędzie... najwięcej na biurku.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Am Kongo ist es morgens.</source>
+    <target>Ale w Afryce jest ranek.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Aber am wichtigsten ist... Wer pflanzte dieses Ding dem Abgeordneten Albert ins Hotelzimmer?
+    </source>
+    <target>
+      I najważniejsze, jak na Boga, znalazło się w pokoju kongresmana.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Schafft sechs Hits bei acht. Hat am Ende 406.</source>
+    <target>Zdobył następne 6 punktów i skończył z 406 punktami.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Sie halten am besten die Klappe und überlassen Norm das Reden.</source>
+    <target>Tylko nic nie gadaj, od tego mamy Norma.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Jeden von uns hätte dasselbe Schicksal ereilen können. - Am Spieß geröstet zu werden?
+    </source>
+    <target>Każdego z nas tu obecnych</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wer ist Donald? Wo ist er? Ist er noch am Leben?</source>
+    <target>Kim jest Donald?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Na dann gibt es ja... absolut keinen Grund, diesen... verbeulten kleinen Jungen am Leben zu lassen, nicht wahr? Soll ich ihn töten?
+    </source>
+    <target>
+      Nie ma więc żadnego powodu, by utrzymać tego sponiewieranego chłopca przy życiu, prawda?
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Unten am Zaun.</source>
+    <target>Więcej wiader!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Herr Professor, ich will Mina doch nur in Sicherheit bringen.</source>
+    <target>AIe chcę tyIko wyrwać Minę z tego wszystkiego.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Wir sind doch in Jacksonville?</source>
+    <target>- Jesteśmy w Jacksonville, prawda? - Tak.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Lord Chester Dyke. Unverletzt, 1 Anteil und £5 in Silber.</source>
+    <target>Ran brak, jeden udział i 5 funtów w srebrze.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Wieso nicht? In einem Land voller lndianer und Piraten?</source>
+    <target>Dlaczego nie, w kraju pełnym Indian i piratów?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich weiß, du bist in Ordnung.</source>
+    <target>&quot;Jestem trzeźwy&quot;. - Wiem, wiem.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Als was arbeiten Sie in Strand?</source>
+    <target>Pani zawód w Strand?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      lch gebe mehr in einem Monat aus, und es hat mich nie gekümmert, woher ich es bekommen habe.
+    </source>
+    <target>
+      W miesiąc wydaję wiecej. I jak wiesz, nie obchodzi mnie, skąd pochodzą.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Miss Froy ist in diesem Zug.</source>
+    <target>- Pani Froy jest w pociągu.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Du wärst jetzt in Tara bei deiner Mutter... ...wäre ich nicht gewesen.
+    </source>
+    <target>Już dawno byłabyś u matki w Tarze, prawda? Gdyby nie ja.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Waren Sie in Cobbs Regiment?</source>
+    <target>- Był pan w Legionie Cobba?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Mein Geld ist in Liverpool.</source>
+    <target>Konto mam w Liverpoolu.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Hast du in der Kneipe nachgesehen?</source>
+    <target>Zajrzales do knajpy?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Erstes Schnuppern in Washington?</source>
+    <target>&quot;Pierwszy niuch stolicy?&quot;</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Der musste in einen kleinen Sack.</source>
+    <target>- Nie! - Tak!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Kein Mann wird sich in mich verlieben?</source>
+    <target>I nikt się we mnie nie zakocha?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Die Direktoren der Thatcher-Gedächtnisstätte... baten mich, Sie noch einmal zu erinnern, welche Bedingungen... für die Einsichtnahme in Mr. Thatchers Privataufnahmen gelten.
+    </source>
+    <target>
+      Dyrektor biblioteki prosił, bym jeszcze raz przypomniała panu warunki udostępnienia części dzienników pana Thatchera. - Pamiętam...
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Du bist in Gefahr.</source>
+    <target>Bądź poważny.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Bald sind sie in Paris.</source>
+    <target>W środę, najpóźniej w czwartek będą w Paryżu.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Wie gesagt, ich habe den Schlüssel in der Hand, nur fehlt noch das Schloss, aber besser so als andersrum, nicht?
+    </source>
+    <target>
+      Mam pewien klucz, do którego muszę znaleźć zamek. Lepiej mieć zamek niż klucz.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      In diesem Fall - was immer auch geschieht - würde ich dich gerne heiraten.
+    </source>
+    <target>W takim razie, cokolwiek się stanie... Chcę się z tobą ożenić.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Sobald ich ihn los bin, bringst du sie in den Keller.</source>
+    <target>Kiedy się go pozbędę, zaprowadź ją do piwnicy.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Wenn der Arzt beginnt, die Wahrheit in einem Patienten aufzudecken... ...entwickelt der besagte Patient eine feine, herzliche Feindschaft gegen den besagten Doktor.
+    </source>
+    <target>
+      Jak lekarz zaczyna odkrywać prawdę... pacjent rozwija się piękna serdeczną nienawiść do lekarza.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Sie haben ihn in eine Zwangsjacke gesteckt.</source>
+    <target>Trzymają go w kaftanie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Mein lieber Hammond, Sie wissen doch, wir haben nichts in der Hand.
+    </source>
+    <target>Hammond... ile razy mam mówic, ze nie mamy dowodów.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Sie weigern sich also, Ihrem Land in der Stunde der Not zu helfen?
+    </source>
+    <target>Czyli nie chce pan pomóc ojczyźnie w potrzebie?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Die Staatsanwaltschaft in Warsaw bitte.</source>
+    <target>Daj mi biuro prokuratora okręgowego w Warsaw.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wir nehmen es bei Dunkelheit in Schlepp.</source>
+    <target>Tak jest, panie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Den Vater finden und verlieren und sich in seine Schwester verlieben. Innerhalb einer Stunde. Etwas viel, nicht?
+    </source>
+    <target>
+      Nawet jeśli znajduje i traci ojca, zakochuje się w kobiecie... i odkrywa, że ta jest jego siostrą, a wszystko to w godzinę, co z tego?
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Geschirr finden Sie in der Scheune.</source>
+    <target>Uprząż znajdziecie w stodole.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Alberto, lass sie in Ruhe!</source>
+    <target>Już dawno powinniście spać, łobuzy!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Es sei denn, du wirst in der Zwischenzeit Polizeikommissar.</source>
+    <target>Chyba, że awansujesz na komendanta.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Wer kann es in Novgorod gegen mich aufnehmen?</source>
+    <target>Kto zdoła sprzeciwić się mi w Nowogrodzie?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Montag Nachmittag wird in der Senkgrube eine SegeIregatta abgehaIten.
+    </source>
+    <target>
+      W poniedziałek po południu odbędzie się na szambie wyścig łodzi.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Irgendwer in unserer Truppe gab den Krauts Tipps.</source>
+    <target>Mieliśmy w naszych szeregach kapusia.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Ich spiele die Geige, und wenn du das hörst... schleichst du ganz leise hinter mir her, bis da hin und bläst in die Posaune.
+    </source>
+    <target>
+      Ja gram na skrzypcach, a kiedy to usłyszysz... podkradasz się do mnie, tutaj, i dmuchasz w puzon.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Wenn der Fluss in eine Lagune mündet, finden wir dort die Fragmente.
+    </source>
+    <target>JeśIi na końcu tego ujścia jest Iaguna, tam znajdziemy śIady.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>In Ordnung, fahren Sie zurück.</source>
+    <target>Okej, do tyłu.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Wir sind in Seenot.</source>
+    <target>- l mamy spore kłopoty.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Nur in totem Zustand.</source>
+    <target>Tak, ale kiedy ja go widziałem, był martwy.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Setz dich in die Mitte.</source>
+    <target>Wsiadaj.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Oder in den Bahnhof...</source>
+    <target>Weźmy to ze stacji i...</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Das Geld ist in meinem Haus.</source>
+    <target>Mam pieniądze.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Was du in der Kiste erzählt hast, hat sie wiederholt...</source>
+    <target>Wszystko co jej powiedziałeś wygadała.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Meine Damen und Herren, in Kürze beginnt das zweite Rennen.</source>
+    <target>* Proszę o uwagę. * * Za chwilę początek drugiej gonitwy. *</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>In Ordnung, Sie können sich umdrehen.</source>
+    <target>Już pan może patrzeć.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Hören Sie, Doktor, falls wir es in das Labor schaffen sollten, werde ich mich gleich an diesen IQ-Verstärker setzen.
+    </source>
+    <target>
+      Jeśli uda nam się dostać do laboratorium... ja zabieram powiększacz inteligencji.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Wir ziehen zuerst in den Süden MaIapais.</source>
+    <target>Pojedziemy na południe od Malapais.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Jona glaubt, ein von Menschen gebautes Schiff... ..könne ihn in Länder bringen, über die Gott nicht herrscht.
+    </source>
+    <target>
+      Uwierzył, że statkiem zbudowanym przez ludzi... uda mu się umknąć do kraju, w którym nie włada Bóg.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Wenn sie kommen, möchte man sich am liebsten verstecken.</source>
+    <target>
+      Czujesz się tak, że najchętniej byś się schował, kiedy oni przejeżdżają.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Spürt am Ende noch das Glück, die Augen und die Zehen zu bewegen.
+    </source>
+    <target>
+      Ale poczuj do samego końca, jak wspaniale jest pozostawać żywym!
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Ich weiß nicht, wer von euch vier Brüdern am wenigsten hochnäsig ist. Ich glaube, es ist Isak.
+    </source>
+    <target>
+      Nie wiem, który z was 4 braci jest najmniej zarozumiały, ale myślę, że jest to Isak.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Und am Morgen fühlte ich mich so schwach.</source>
+    <target>A rano byłam taka słaba.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Als einzige Frau auf dem Schiff, mit den tollsten Burschen, die es gibt.
+    </source>
+    <target>Jako jedyna kobieta na pokładzie pośród samych twardzieli.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich bin zu tiefst verletzt.</source>
+    <target>Jestem głęboko urażona.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich brauche mich für nichts zu schämen.</source>
+    <target>Nie mam się czego wstydzić.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Rücken an Rücken.</source>
+    <target>Odwrócicie się plecami.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Ich bin vollkommen unschuldig. Treten Sie vor und sehen Sie Seine Lordschaft an.
+    </source>
+    <target>Jestem zgoła niewinny.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Das ist ein Charakterzug, den wir lren mit den Elefanten teilen.
+    </source>
+    <target>Jest to cecha, która nas, Irlandczyków, łączy ze słoniami.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Werden wir dabei zusehen, wie dieser Knirps über unseren Captain lacht?
+    </source>
+    <target>
+      Czy mamy stać z boku i przyglądać się, jak ta kózka drwi z naszego kapitana? Tam stoi flota Bishop'a.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>-Immer auf die Wasserlinie schießen.</source>
+    <target>- Cały czas w linię wodną.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Alles an dir lieb ich.</source>
+    <target>Kocham Cię.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>An wessen Hand?</source>
+    <target>- Czyjej ręce?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Also geh auf deine Weltreise und schlag dir mich aus deinem Kopf.
+    </source>
+    <target>Jedź w podróż dookoła świata i zapomnij o mnie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      lrgendwann werde ich lhnen mal zeigen, wie man mit Kühen umgeht.
+    </source>
+    <target>Kiedyś sama wezmę je na pastwisko i pokażę ci, jak je paść.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Wir haben etwas Besseres zu tun, als für einen Monat reich zu spielen.
+    </source>
+    <target>Nie będziemy udawać bogaczy. Mamy coś lepszego do roboty.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Dann verpassen wir den Anschluss. - Das wäre zu dumm.</source>
+    <target>
+      Jeśli nie zdążymy do Baru, nie dotrzemy na czas do Manchesteru.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Dann beginne ich mit meinem Vater, wie so viele große Männer.</source>
+    <target>- Więc zacznę od ojca.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Hielt er um deine Hand an?</source>
+    <target>Poprosił o twoją rękę? - Nie.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Genau so etwas ist von jemanden wie Rhett Butler zu erwarten.</source>
+    <target>Po kimś takim można się było tego spodziewać.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Nein, Sir, er ist über das Moor gegangen.</source>
+    <target>Nie, poszedł na wrzosowiska.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Das brauchst du mir nicht zu sagen.</source>
+    <target>Nie musisz tego mówic.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Ach ja. Potztausend, wir haben zu tun!</source>
+    <target>- Rzeczywiscie, bierzmy sie do pracy.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Daher muss ich jemanden als Nachfolger ernennen... der seine Amtszeit zu Ende bringt.
+    </source>
+    <target>
+      A więc, jest to w moim obowiązku, aby wyznaczyć kogoś... na jego miejsce.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Drehen Sie mir nicht den Rücken zu.</source>
+    <target>- Nie odwracaj się do mnie plecami, ty... - Jack, daj spokój.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Sie wagten es nicht, sich ihm zu stellen.</source>
+    <target>Jemu też bali się spojrzeć prosto w oczy.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Komm, rein. Mein Geld mit Spiel und Schnaps vergeuden?</source>
+    <target>Musimy spłukać ten kurz z Kansas.Chodź.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Hängt den Kerl doch gleich auf!</source>
+    <target>To co mu się należy to sznur.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Das scheinen die Letzten zu sein.</source>
+    <target>To juz ostatnie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Mr. Leland, Sie wollten mir was über Rosebud sagen.</source>
+    <target>Może byłem, jak to dziś nazywacie... jeleniem?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Stellt euch an.</source>
+    <target>Ustawcie szereg.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Nur zu!</source>
+    <target>-To gadajcie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Sie mit Erfolg.</source>
+    <target>Pan odnosi sukcesy.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Mit Bestechung geht's wohl schneller.</source>
+    <target>Łapówki dawniej działały.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Mein Dialog ist zu Ende. -Wir haben es! Hier, ein Revolver.</source>
+    <target>Kiedy będziecie w pokoju zdziel go nim w głowę.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Nett, Sie kennen zu lernen.</source>
+    <target>Miło mi pana poznać.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Du kannst mit mir reden.</source>
+    <target>Możesz ze mną rozmawiać.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Nicht weit, mit dem Anker im Wasser.</source>
+    <target>- Ciekawe, jak daleko dryfowaliśmy.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Er ist zu groß.</source>
+    <target>- Jest za duży.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ja, aber ich war zu spät.</source>
+    <target>Tak, ale się spóźniłem.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Pass auf die Fäden auf.</source>
+    <target>Uważaj na tasiemki, Steve.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Steh nicht so da, mit diesem besserwisserischen Ausdruck.</source>
+    <target>Nie zaczynaj znowu.. Nie stój tak z tym bystrym spojrzeniem...</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Auf Wiedersehen.</source>
+    <target>-Do widzenia, powodzenie.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Ich bin der, der mit seinem Wagen gegen Ihren Baum gefahren ist.
+    </source>
+    <target>Jakie drzewo? To.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>-Um es zu sagen. Was geschieht wirklich mit Ihnen?</source>
+    <target>Co się z panem stanie naprawdę?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Ich würde nicht mit ihr sprechen, es würde ihr höchstens weh tun.
+    </source>
+    <target>Nie będę z nią rozmawiał. To by jej tylko sprawiło ból</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Ihr macht jetzt einen Spaziergang. Der Doc ruft euch auf die Krankenstation.
+    </source>
+    <target>Chodźcie, pan doktor wzywa was do gabinetu.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Ihren eigenen Mann legen die nicht um.</source>
+    <target>- Nie do swojego człowieka.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Ich freue mich auf Forest Hills, es ist das erste Mal für mich.
+    </source>
+    <target>
+      - Nigdy nie widziałem turnieju w Forrest Hills. - Nie mogę się doczekać.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich werde mit Blanche fortbleiben, bis ihr fertig seid.</source>
+    <target>Wrócimy po przyjęciu ale nie jestem pewna jak ona to przyjmie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Direkt auf meinen schönen - rosa Rock.</source>
+    <target>Prosto na moją... ...różową spódnicę.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Verfolgen gestohlenen Polizeiwagen nach Westen, Portobello Road.
+    </source>
+    <target>
+      Śledzę skradziony samochód policyjny. Jedzie na zachód wzdłuż Portobello Road.  Over.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Mit dem Zauberstab will er sie zum Leben erwecken.</source>
+    <target>Swą magiczną różdżką chce ją wskrzesić.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Weißt du, dass heute Morgen ein Fremder auf mich geschossen hat?
+    </source>
+    <target>Wiesz, że rano ktoś do mnie strzelał, nawet nie wiem kto.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Auf der Stelle! Vorwärts marsch!</source>
+    <target>Marsz!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Ich spreche nicht mit Ihnen.</source>
+    <target>- Nie mówię do ciebie.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Er kümmert sich um sich selbst.</source>
+    <target>Sam dba o siebie.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Wie wär's mit etwas Licht hier?</source>
+    <target>Trochę tu ciemno.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Eine Unterhaltung über die Weltlage 250.</source>
+    <target>Wiem, ale gdybym się dostał, ile byłoby to warte?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>FaII tot um!</source>
+    <target>Ażebyś Sie zdechł!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Mit Oberst von Scherbachs Worten:</source>
+    <target>Cytuję von Scherbacha:</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Wie ist es mit Ihnen?</source>
+    <target>- A ty?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Das mache ich immer wieder. Wurde schon auf dich geschossen?</source>
+    <target>Ja to robię cały czas, kiedykolwiek mam parę chwil po lunchu.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Sogar die Handtasche seiner Frau, die immer am Bettpfosten hing. Was ist damit?
+    </source>
+    <target>
+      Nawet tą torebkę z krokodyla, którą jego żona zostawiła przy łóżku.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Bleibt nicht zu lange auf.</source>
+    <target>Przez Panią Annę Thorwald.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Das hebt die Polizei für ihn auf.</source>
+    <target>- Plicja go przypilnuje.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ruder auf Kurs 045.</source>
+    <target>Trzymać kurs 045.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Sie waren mit dir im Gefängnis.</source>
+    <target>- Byli z tobą w więzieniu.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Mit mir arbeitest du nicht mehr.</source>
+    <target>Koniec współpracy.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Außerdem hast du dich auch mit anderen Frauen noch amüsiert.</source>
+    <target>
+      Oprócz tego, heroicznie zabawiałeś się zaliczaniem innych panienek
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Sherry, musst du dich über alles, was ich sage, lustig machen?</source>
+    <target>Sherry, zawsze musisz ze mnie drwić?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Nur über meine Leiche!</source>
+    <target>Ale nie będzie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Der Plan, um das Gefängnis zu verlassen, und die Tür auseinander zu nehmen.
+    </source>
+    <target>To plan wyjścia z budynku i wskazówki jak zdemontować drzwi.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wir sollten schnell nach Washington.</source>
+    <target>
+      Lepiej przedostańmy się do Waszyngtonu zanim oni zdecydują się zrzucić coś do nas.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Wegen der Unwetter konnte Washington erst am neunten Tag evakuiert werden.
+    </source>
+    <target>
+      Z powodu anomalii pogodowych aż do dziewiątego dnia nie można było prowadzić zarządzonej ewakuacji Waszyngtonu.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Und wie heißt: &quot;Ich gehe heute am Meer spazieren&quot;?</source>
+    <target>Dzisiaj przejdę się nad morzem.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wollte uns trotz- dem am schwedischen Hof empfehlen.</source>
+    <target>Wciąż obiecywał, że nas zarekomenduje na szwedzkim dworze.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Was weisst du über Verlogenheit?</source>
+    <target>Fałsz! Co ty wiesz o fałszu?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Der Vertrag ist wertlos. Sie können mich also nach Hause bringen.
+    </source>
+    <target>
+      Ten papier jest bezwartościowy. więc odwieź mnie do domu ja powiedziałeś.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wo soll ich das deiner Meinung nach tun?</source>
+    <target>
+      Gdzie mam to, według ciebie, zrobić? Na wystawie domu handlowego?
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Zieh dich am besten aus.</source>
+    <target>Lepiej się rozbierz.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Ich bringe sie für sieben Jahre in die Berge, um sie zu kasteien.
+    </source>
+    <target>Będę ją więzić w górze przez siedem długich lat.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wir fahren nach Italien, meine Kleine!</source>
+    <target>Jedziemy do Włoch, kochana!</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Allein die Kosten, um die Bücher zu ändern.</source>
+    <target>
+      To tylko ćwierć miliona. To kosztuje więcej niż poprawienie ich księgowości.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Um Gottes willen, hör auf damit.</source>
+    <target>On i Luke będą na zmianę pilnować tego piętra.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Fahren Sie auch nach Capri? - Vielleicht.</source>
+    <target>Być może.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich weiß alles über Sie.</source>
+    <target>Wszystko o panu wiem.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Naja, das hört sich doch nach einer großen Sache an.</source>
+    <target>- Szykuje się dużo pracy.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Um 24. 1 7 Uhr ozeanischer Zeit erreichte ich den Rand von Alphaville.
+    </source>
+    <target>
+      Była godzina 24.17 czasu oceanicznego, kiedy zbliżałem się do przedmieści Alphaville. Cisza.  Logika.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Immer nach der Reihe!</source>
+    <target>A ja?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>I am very well! I am very well! Nein!</source>
+    <target>Ja już nie mogę!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Am Friedhof, sagtest du. Stimmt's?</source>
+    <target>Powedziałeś na cmentarzu?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich komm gleich nach.</source>
+    <target>Zaraz wracam.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Und ich verlange die doppelte Anzahl morgen nach Feierabend.</source>
+    <target>Na dziś wieczór. A ja ci... ...dołożę jeszcze 10 na jutro.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      &quot;Jetzt geht es um dein Seelenheil, wie wird deine Antwort lauten?&quot;
+    </source>
+    <target>&quot;Pamiętając o zbawieniu twej duszy, odpowiedz&quot;.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wir waren damals wirklich am Arsch.</source>
+    <target>Rzeczywiście dostaliśmy wtedy w dupę.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Haben sich Logan und Jim um die Frau gekümmert?</source>
+    <target>Gdzie Jerry i Jim? Zaopiekowali sie kobietą?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Über das ruhige Meer bis zum dampfenden Meer.</source>
+    <target>Potem odbijemy na południowy zachód.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wissen Sie noch was über diesen Bruder?</source>
+    <target>- Wie pani może coś więcej o jej bracie?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Rabenschwarzes Haar. Über 70, aber immer noch dabei.</source>
+    <target>Miał ponad siedemdziesiątkę i ciągle mógł.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Wenn er am Leben bleiben soll.</source>
+    <target>Jeśli miałby przeżyć.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Warum machst du dir plötzlich Sorgen um ihn?</source>
+    <target>Dlaczego tak nagle się o niego martwisz?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Wichtig ist: Wir sind am Meer!</source>
+    <target>Najważniejsze, że jesteśmy nad morzem.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Radiert sie aus! Radiert sie aus! Bringt sie um!</source>
+    <target>Czy to dobrze, bo każdy jest...</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Du wirst nach Abfällen suchen.</source>
+    <target>Będziesz jeść odpadki.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      In diesem Moment war ich richtig verrückt und gefährlich nahe am Klippenrand, als...
+    </source>
+    <target>
+      W tym momencie byłem naprawdę szalony i zbliżyłem się do krawędzi tego klifu, gdy...
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      In 30 Sekunden wird er rauskommen, mich sehen und über den Hof flüchten.
+    </source>
+    <target>
+      Za chwilę wyjdzie. Zobaczy mnie i będzie próbował uciec tylnym wyjściem.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Nur, um mich zu besuchen?</source>
+    <target>- Tylko po to, by się ze mną zobaczyć?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Wir nennen es nach der Hauptstadt von Peru und färben es in der Farbe der Eingeborenen.
+    </source>
+    <target>
+      Nazwę swą [Lima] wziął od stolicy Peru, zaś jego kolor jest taki sam jak kolor skóry mieszkańców.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Genau, und am Schluss nimmst du das Eau de Cologne.</source>
+    <target>Tak, i trzeba też popryskać wodą kolońską.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ach, roll mich doch am Arsch.</source>
+    <target>Pocałuj mnie gdzieś, koleś.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Nach allem, was ich weiß, müssen die Phönix-Asteroiden glühen.</source>
+    <target>Asteroidy Feniksa. Z tego co słyszałem, Doolittle, one świecą.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Ich saß im Zug nach New York, ich wollte bei Catherine übernachten.
+    </source>
+    <target>W pociągu Tom siedział naprzeciw mnie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Beide. -Er frisst sich am Seil entlang.</source>
+    <target>- Zjada linę.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Bereit, nach Algerien zu fliegen?</source>
+    <target>- Gotowa lecieć to Algierii?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Was ist das? Wie verhext Mir ist so nach Sex</source>
+    <target>Co się dzieje ja oszaleję... czuję seks</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Er ist ein Herr um die 4O, oder?</source>
+    <target>Ma około czterdziestki, jeśli się nie mylę?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Das war eine ganz wilde. Sie hat ihn wohl am Kopf erwischt.</source>
+    <target>Musiał być dla niej kimś bardzo ważnym.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich war am Gewinnen.</source>
+    <target>Moje czerwone są tam.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Sag ihr, ich kümmere mich um sie.</source>
+    <target>Teraz, ty jej powiedz że zajmę się nią.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Als imperiales Senatsmitglied und Diplomat... fliege ich nach Alderaan.
+    </source>
+    <target>Lecę z misją Senatu na Alderaan.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Was ist das? Wie verhext Mir ist so nach Sex</source>
+    <target>Co się dzieje ja oszaleję... czuję seks</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Jetzt fleht er um Eure Hilfe... im Kampf gegen das Imperium.</source>
+    <target>Teraz on błaga cię o pomoc w walce z Imperium.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich freute mich über Ihren Anruf.</source>
+    <target>Cieszę się, że pani zadzwoniła.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Bobby, nach 500 Metern biegen wir ab und fahren zum Fluss.</source>
+    <target>Bobby, za chwilę skręcamy i kierujemy się w stronę rzeki.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>lch gestalte meine Zukunft Nach Weltraumfilmen</source>
+    <target>Moja przyszłość jest utkana</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Da steigen wir um. - Ich habe eine Frage.</source>
+    <target>- Tam się przesiadamy.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Schau mal nach!</source>
+    <target>- Chodź tu, Czyścioch, do cholery.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Werden Sie nach dem Krieg wieder zurückkehren nach Amerika?</source>
+    <target>Wróci pan do Ameryki po wojnie?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Wir räumen hier auf, dann ab nach Vung Dao, ans glatte Abendmeer.
+    </source>
+    <target>
+      Lubię szybko kończyć zadania, polecieć o zachodzie do Vung Tau. Miałeś już okazję tutaj surfować?
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Was wird man nach seinem Tod sagen?</source>
+    <target>Bo co oni powiedzą, gdy on odejdzie?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Das geht ganz tief Denk sofort darüber nach Oh, Freiheit</source>
+    <target>Pomyśl głęboko Pomyśl o tym teraz</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Was ist das? Wie verhext Mir ist so nach Sex</source>
+    <target>Co się dzieje ja oszaleję... czuję seks</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      Aber wenn du krank wirst... dann kümmere ich mich um dich. LINDA:
+    </source>
+    <target>Ale jeśli zachorujesz, albo coś takiego... ...zajmę się tobą.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      TYRELL: Eine Codesequenz kann nach der Festsetzung nicht mehr verändert werden.
+    </source>
+    <target>Raz ustanowiona, kodowa sekwencja nie może być zmieniona.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wir ließen ein SOS über Yos Sender ab.</source>
+    <target>Wysłałyśmy sygnał S.O.S. Nadajnikiem Yo.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Okay, wir fahren in einigen Minuten nach Hause.</source>
+    <target>Ok, pojedziemy za kilka minutek.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Eine Woche später bricht sie nach Europa auf.</source>
+    <target>Tydzień później Eudora wsiada na statek płynący do Europy.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich muss nächste Woche nach New York.</source>
+    <target>Za tydzień muszę lecieć do Nowego Jorku.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Ich möchte schließen mit ein paar Worten über die Auswirkung des bevorstehenden neurologischen Durchbruchs.
+    </source>
+    <target>
+      Chcę teraz tylko kilkoma słowami podsumować skutki nadchodzącego przełomu w neurologii.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Das erste Mal, dass du zweifeltest Edwardes zu sein?</source>
+    <target>-Pierwszy raz kiedy byłeś skonfudowany?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Er und ich tranken ein Glas an meinem Geburtstag.</source>
+    <target>
+      Ostatni miałam okazję wypić z nim szklaneczkę z okazji moich urodzin.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Moment mal. Führen Sie sie zu mir.</source>
+    <target>Proszę ją do mnie przyprowadzić.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Steht dir davon was zu?</source>
+    <target>- Nieźle.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich bin zu weit gegangen.</source>
+    <target>Przesadziłem.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Die Zeit war gekommen, diesen Vorteil zu nutzen.</source>
+    <target>Nadszedł czas żeby to wykorzystać.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Schrei mich an, schlag mich, aber hasse mich nicht.</source>
+    <target>Okrzycz mnie! Uderz mnie, ale nie nienawidź mnie!</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Man kreuzt einen Namen an.</source>
+    <target>-Proste. Wystarczy nacisnąć guzik.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Erinnerst du dich noch an den Vogel?</source>
+    <target>Pamiętasz co powiedziałem na początku, o małym ptaszku?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Du hättest vorher an sie denken sollen! Aus dem Weg!</source>
+    <target>Daję głowę, że wróciła.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Ich ruf Dr. Ziegler an.</source>
+    <target>- Zabierzmy go do dr. Zieglera.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Was siehst du mich denn nicht einmal an?</source>
+    <target>Czemuż ty nie spojrzysz na mnie?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich nehme an, ich hatte einfach GIück.</source>
+    <target>Cóż, miałem chyba szczęście.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Was für ein Mangel an Anstand.</source>
+    <target>- Mam dreszcze przy takich brakach przyzwoitości!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>An mich ist sie gewöhnt.</source>
+    <target>Ja pewnie jestem nudny.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Greifen wir an, töten sie sie.</source>
+    <target>Jeśli zaatakujemy Komanczów, oni je zabiją. Wiesz o tym.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Fasst mit an!</source>
+    <target>Wszyscy na pokład!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Sehen Sie sich das an.</source>
+    <target>Spójrz.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich lebe mit meiner Schwester zusammen.</source>
+    <target>Mieszkam z siostrą.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Du immer mit deinen Träumen und Visionen...</source>
+    <target>Ty i twoje wizje!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Und ich bedaure Sie, weil Sie mit dem Schiff untergehen.</source>
+    <target>Ciebie też, bo... - pójdziesz na dno razem z całym statkiem.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich bleibe hier! - Nein, komm mit!</source>
+    <target>Natychmiast wracamy do Zamku!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Hör doch auf, kriech nicht so.</source>
+    <target>Daj spokój stary, nie musisz się tak płaszczyć</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wartet. Wartet auf mich.</source>
+    <target>Zaczekajcie na mnie.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Stell das Ding wieder an.</source>
+    <target>-Przepraszam, włącz z powrotem.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Weder mit Pferden, noch mit Waffen, noch mit Fäusten.</source>
+    <target>Nie na konie, pistolety, lub pięści.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Mit ihm und Lee sprechen.</source>
+    <target>- Chcę porozmawiać z nim i z Lee.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Weg mit der Pistole!</source>
+    <target>Rzuć pistolet. już!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Mit Papas Millionen im Rücken...</source>
+    <target>Pieniądze twojego ojca przemawiają do wyobraźni.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Da saß ich dann und unterhielt mich mit ihnen.</source>
+    <target>Usiadłem, zapaliłem cygaro, omówiliśmy to i owo.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Können wir uns mit ihm sehen lassen?</source>
+    <target>Wychodzi dzisiaj z nami?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich warte auf Liberty Valance.</source>
+    <target>Czekam na Liberty Valance'a.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich will wissen, was mit Strangways passiert ist.</source>
+    <target>Muszę wiedzieć, co stało się ze Strangwaysem.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Sag mal! Sind wir auf der falschen Beerdigung?</source>
+    <target>Może łowimy w niewłaściwym strumieniu?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Schätze verbleibenden Treibstoff auf 8790.</source>
+    <target>Pozostało nam około 8790 litrów.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich geh gern auf Nummer sicher.</source>
+    <target>- Tego na pewno nie przeżyje.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Mit Kinder lassen wir uns Zeit.</source>
+    <target>
+      Z dziećmi nie będziemy się śpieszyć, ale jedno będziemy chcieli mieć szybko.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Es wird hier sehr viel auf Sie zukommen.</source>
+    <target>Mamy tu dużo pracy.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      &quot;Stechkahn auf der Themse&quot;. Das ist ein schöner Ausflug.
+    </source>
+    <target>&quot;Wiosłowanie na Tamizie&quot; To miła rozrywka.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Gib nicht auf, Baby. Gib nicht auf!</source>
+    <target>Jeszcze nie mów hop!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich gehe nur mit.</source>
+    <target>Dokładam.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Nein, das hört von selbst wieder auf.</source>
+    <target>Posłuchajmy jeszcze.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Nicole, ich mach auf.</source>
+    <target>Otwieram!</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Mit dem lass ich dich nicht allein.</source>
+    <target>- Nie zostawię cię z nim samej.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich schenk sie Ihnen, mit tausend Freuden!</source>
+    <target>Wszystko się kiedyś znudzi, nawet trzęsienie ziemi.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Er wollte nicht mit mir gesehen werden.</source>
+    <target>Nie chciał się ze mną pokazywać.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Was ist das? Wie verhext Mir ist so nach Sex</source>
+    <target>Co się dzieje ja oszaleję... czuję seks</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>lch kam her, um lhr Geld anzunehmen.</source>
+    <target>przyszedłem tu po wasze pieniądze.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich bin gekommen, um meine Ausbildung abzuschließen.</source>
+    <target>Wróciłem, dokończyć szkolenie.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Der Stadtrat wird sich nicht nach den Wünschen von Schülern richten.
+    </source>
+    <target>Rada nie ma zamiaru spełniać żądań małej grupy uczniów.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Mrs. Evans ist am Telefon wegen dem Tanz.</source>
+    <target>Pani Evans dzwoni w sprawie tej szkolnej zabawy.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Du kommst bloß, um das Klo zu benutzen?</source>
+    <target>Chcesz do toalety?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Bring ihn um und verschwinde.</source>
+    <target>Załatwiasz go i odchodzisz.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Schwimm nach Hause!</source>
+    <target>Odsuń się!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Rennt um euer Leben! Mir reicht es.</source>
+    <target>Mam tego dosyć.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wenn sie es war, hatte sie genug Zeit, um zu verschwinden.</source>
+    <target>
+      Jeśli to była ona, to miała dość czasu, by zatrzeć ślady i wyjść.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Hier kommt niemand ran, ohne über was zu stolpern.</source>
+    <target>Nic nie podejdzie bez wpadnięcia na coś.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Über meinen Kopf, los!</source>
+    <target>Nad moją głową, dalej.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Sie waren am Sonntag in Duck Island beim Softball.</source>
+    <target>Może w Duck Island, w zeszłą niedzielę na meczu siatkówki?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Was wissen Sie über diesen Fall?</source>
+    <target>Co wiesz o tej sprawie?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich bringe ja keinen um. Das Crack bringt sie um.</source>
+    <target>Ja nikogo nie zabije. jest to, co my crack zamierza je zabić.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Wir sind über Washington.</source>
+    <target>Prawdę mówiąc, ja też. Jesteśmy nad Waszyngtonem.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Aber was, wenn die Kacke mal richtig am Dampfen ist?</source>
+    <target>A jeśli naprawdę coś się wydarzy?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Bestimmt nicht am Krabbensalat. Auch nicht an den Krapfen.</source>
+    <target>Na pewno nie sałatka z krabów ani pączki.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Dreh sie um, Eddie!</source>
+    <target>Puść ją Eddie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Er spritzte ihr Gehirn über die ganze Wand.</source>
+    <target>Jej mózg rozpryskał się po ścianie.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Immer, wenn jemand das sagt, fällt eine Elfe tot um.</source>
+    <target>&quot;Nie wierzę we wróżki&quot;, jedna wróżka ginie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>
+      lch bin ein Cyber-Organismus. Lebendes Gewebe über Metallskelett.
+    </source>
+    <target>Żywa tkanka pokrywa metalowy szkielet.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Oder um 18 Uhr?</source>
+    <target>Powiedzmy, o szóstej?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Es riecht nach Angst, Rémy.</source>
+    <target>-Gówno tchórza.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich bring sie nicht um.</source>
+    <target>Nie zabiję jej.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>345, Fahrgast nach LaGuardia.</source>
+    <target>345. Kurs na lotnisko.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Darf ich um die Technung bitten?</source>
+    <target>Mogę prosić rachunek?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich rief nach den Sicherheitsbeamten, und er Iief weg.</source>
+    <target>Wezwałam ochronę, on uciekł. Co miałam robić?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Er hat eine Pistole. Am Ende des Piers.</source>
+    <target>On ma broń!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Ich rief ihm nur nach.</source>
+    <target>- Zawolalem tylko za nim.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Am Südausgang gibt es eine schöne Kirschbaumallee.</source>
+    <target>
+      Faktycznie, południowe wyjście wygląda lepiej z tymi drzewami wiśniowymi.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Sie erwarten von mir, dass ich sie nach Kentanna führe.</source>
+    <target>Oczekują, że poprowadzę ich do Kentanny.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ja, um Hilfe zu suchen, und ich hab' dich gefunden.</source>
+    <target>Wyruszyłam po pomoc! I znalazłam ciebie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Jetzt kannst du nach Amsterdam fliegen. Stimmt!</source>
+    <target>-Wystarczjąco wolna by lecieć do Amsterdamu!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Nach dem Studium an der Cheng-Kung-Universität ...</source>
+    <target>
+      W rezultacie, wszystko się pogmatwało, kiedy skończyłem studia w Chen-Kong.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich sehe mal nach, ob er OK ist.</source>
+    <target>Zobaczę, co z nim.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich würde gern mit dir über etwas reden.</source>
+    <target>Chcę z tobą porozmawiać.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Die Suche nach einer Vision ist eine große Gnade.</source>
+    <target>
+      Wyprawa po wizje jest wielkim błogosławieństwem, Williamie Blake'u.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Du musst schon schlau sein, um zu kriegen, was du willst. .</source>
+    <target>Musisz być inteligentny, by zdobyć to czego pragniesz.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>(liest) &quot;Du machst dir Sorgen um mich?&quot;</source>
+    <target>Martwię się o ciebie, Robert. Słusznie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Das sind z.B. Bücher über Atomwaffen oder Mein Kampf.</source>
+    <target>Na przykład o broni nuklearnej... lub &quot;Mein Kampf&quot;.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Brandi Svenning, komm her. Ich entführe dich nach Florida.</source>
+    <target>Chodź Brandi Svening, zabieram cię na Florydę.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Um ehrlich zu sein, habe ich großen Durst.</source>
+    <target>Prawdę mówiąc, jestem strasznie spragniona.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Das geht weit über Ihre Kompetenz hinaus.</source>
+    <target>Proszę uważać. Przekracza pan swoje kompetencje.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Da fühlt man diese Nervosität. Da am Telefon.</source>
+    <target>Wyczuwam nerwowość przez telefon.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Wenn Sie die Geräusche hier nicht mögen, gehen Sie nach hinten.
+    </source>
+    <target>Jak ci się nie podoba ten hałas, to może idź sobie.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Drehung um 90 Grad.</source>
+    <target>- Obrót o 90 stopni.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Lhr Gepäck muß am Hauptschalter aufgegeben werden. Dort, Sir.</source>
+    <target>Przenieść pana bagaż na pokład, sir?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Er sagte, man könne nie... ...nie nach Hause zurückgehen.</source>
+    <target>Mówią że nie można Wrócić do domu spowrotem</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Irgendwie ist sie wild nach dir.</source>
+    <target>Z jakiegoś powodu szaleje za tobą.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Sind sie bereit, nach Hause zu fahren?</source>
+    <target>Jest pani gotowa iść do domu, pani Murdoch?</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Nein, ich schwimme hier und gehe jetzt nach Hause.</source>
+    <target>Nie, pływam tylko. Zaraz wracam do domu.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Aber ich werde am Donnerstag abgeschoben!</source>
+    <target>Nie mogę przyjechać za tydzień. W czwartek mnie deportują.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Geh zurück nach England! Bring das deiner Königin.</source>
+    <target>Stój!</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Weil ich zuviel über die Wahrheit weiß.</source>
+    <target>Bo jestem niebezpieczny. Znam za dużo prawdy.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>- Wir werden über ihre Köpfe gehen.</source>
+    <target>- Pójdziemy z tym wyżej.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Nachricht nach dem Pfeifton.</source>
+    <target>Zostaw wiadomość po sygnale.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Warum wurde dann über ihn geschrieben und nicht über dich?</source>
+    <target>Więc czemu o nim napisali, a ciebie pominęli?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Ich habe beschlossen, nach Naboo zurückzukehren.</source>
+    <target>Postanowilam wrocic do Naboo.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>- Darum treffe ich Sie am Nudelstand.</source>
+    <target>To dlatego widziałem panią przed budką z makaronem.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Er ist am Auto.</source>
+    <target>Jest przy aucie.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Und mich fragt dauernd irgendjemand nach dir.</source>
+    <target>
+      Każdy zawsze pyta o ciebie. &quot;Jak tam Gal?  Masz jakieś wieści od niego?&quot;
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>WeiI dieser Bulle nach dir sucht.</source>
+    <target>- Bo szuka ciebie ten gliniarz.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Das gäb 'ne Schlange bis nach Mexiko City.</source>
+    <target>
+      Ilu wieśniaków będzie to kosztować? Mógłbyś ustawić szereg stąd do Mexico City.
+    </target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Am Ende der Welt, wo die Löwen weinen.</source>
+    <target>Na końcu świata, gdzie płaczą lwy. Tam się rodzą marzenia.</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Warten Sie hier am Tisch.</source>
+    <target>Proszę tu poczekać.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Es klingt nach was Größerem.</source>
+    <target>To coś większego.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Jemand aus Tokio telefoniert mit einem Mann irgendwo am Hafen.</source>
+    <target>Odebrałem sygnał z Tokio, do kogoś, kto jest w pobliżu Pearl.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Ich sitz hier nicht am längsten, weil ich Scheiben einwarf,</source>
+    <target>Nie zostałem najstarszym recydywistą za wybicie szyby.</target>
+    <good>false</good>
+  </translation>
+  <translation>
+    <source>Warum schaust du nicht nach ihr?</source>
+    <target>Dlaczego jej nie pilnowałeś?</target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>
+      Tiffany! Nach ihrem Auftritt!  Ich habe etwas ganz Besonderes arrangiert.
+    </source>
+    <target>
+      Zaaranżowałem wyjątkowe spotkanie, zaraz po jej występie... tylko ty i panna Satine.
+    </target>
+    <good>true</good>
+  </translation>
+  <translation>
+    <source>Am Tag der Hochzeit meiner Schwester kam ich aus der Anstalt.</source>
+    <target>Wyszłam z zakładu w dniu ślubu mojej siostry.</target>
+    <good>true</good>
+  </translation>
+</translations>

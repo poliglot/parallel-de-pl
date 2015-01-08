@@ -1,0 +1,149 @@
+# Sources:
+# - http://de.wikipedia.org/wiki/Ablativ
+# - http://en.wikipedia.org/wiki/Locative_case
+
+# A word that may have the form of a preposition
+# but is a verb prefix
+prefix
+
+# Steigerungsform
+superlative:attributive
+
+# Vorschlag
+superlative:propositive
+
+# e.g. zu groß
+excessive
+
+# e.g. am Kochen
+process
+
+# e.g. Dann beginne ich mit meinem Vater.
+process:onset
+
+# Position
+locative
+
+# Static position
+locative:static
+
+# in
+# Es gibt ein Maß ''in den Dingen''.
+locative:static:inessive
+
+# on, at
+locative:static:adessive
+
+# über, unter, neben
+# Das Bild hängt über dem Loch.
+locative:static:relative
+
+locative:directional
+
+# Motion towards
+# e.g. ''nach Hause'' gehen; ''in das Haus'' bringen
+locative:directional:allative
+
+# Exogenous motion
+# e.g. Er ist ''aus Rom'' abgereist.
+#      Der Ball fliegt ''aus dem Fenster''.
+#      Der Zug kommt ''aus Berlin''.
+locative:directional:ablative
+
+# e.g. ''über die Brücke'' gehen; ''entlang der Brücke'' gehen
+locative:directional:passage
+
+# Local motion
+locative:directional:local
+
+# e.g. ''um 90 Grad'' drehen
+locative:directional:local:circular
+
+# Wie?
+modal
+
+# Warum?
+# Dein Handeln ist ''durch Hass'' motiviert.
+causal
+
+# Wann? In welcher Zeitspanne?
+# In jener Zeit ging ein Gebot von Kaiser Augustus aus.
+temporal
+
+# bei schönem Wetter
+conditional
+
+# trotz des schönen Wetters
+concessive
+
+# Auswirkung, Folge
+consecutive
+
+# statt
+adversative
+
+# Als wer/was?
+# Die Sonne ist um ein Vielfaches größer als die Erde.
+# Tochter, schöner noch als ihre schöne Mutter.
+comparative
+
+# Attribut: Von welcher Art? Was für ein?
+# Catilina besaß ''große Geistes- und Körperkraft''.
+attributive
+
+# instrument/means (with)
+# Er begießt die Blumen mit der Gießkanne.
+instrumental
+
+# accompaniment (with)
+# in seiner Begleitung
+comitative
+
+# endowed with
+# Er begießt die Blumen mit Wasser.
+ornative
+
+# about (worüber?)
+topical
+
+# Lack of sth./sb.
+# 'ohne'
+# 'außer'
+# 'mit Ausnahme von'
+absessive
+
+# Er nimmt am Spiel teil.
+participating
+
+# Mit ihm tritt Hoffnung in den Raum.
+identifying
+
+# Er hat seine Gegner mit 100 Soldaten besiegt.
+quantifying
+
+# Er hatte über 100 Soldaten.
+quantifying:relational
+
+# pro, je
+distributive
+
+# Referencing an object
+# TODO Is there a better linguistic abstraction?
+referential
+
+# Ich habe ''von Ihnen'' gehört.
+referential:source
+
+# An object or person that is being targeted.
+# auf jdn. treffen
+# auf jdn. stolz sein
+# Hinweis auf etw.
+referential:target
+
+# surprise/unpreparedness/unexpectedness
+# auf jdn. treffen/stoßen
+# auf etw. kommen
+mirative
+
+# hopes/wishes/fears
+volitive
